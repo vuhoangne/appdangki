@@ -166,11 +166,6 @@ NEXT_PUBLIC_SOCKET_URL=http://localhost:3000
 
 ### Truy Cập Hệ Thống
 
-- **Client Admin**: http://localhost:3001
-  - Đăng nhập với tài khoản:
-    - Email: vuhoangdz2003@gmail.com
-    - Mật khẩu: 0937036966
-
 - **Client Customer**: http://localhost:3002
   - Không yêu cầu đăng nhập, người dùng có thể truy cập trực tiếp
 
